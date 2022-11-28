@@ -5,9 +5,9 @@ import os
 # bot
 TOKEN = os.environ.get("TOKEN", "5825374324:AAEfTf-bDIT8Vj5TiRPOYogWDxfuLknK5dI")
 bot = telebot.TeleBot(TOKEN)
-GDTot_Crypt = os.environ.get("CRYPT","b0lDek5LSCt6ZjVRR2EwZnY4T1EvVndqeDRtbCtTWmMwcGNuKy8wYWpDaz0%3D")
-Laravel_Session = os.environ.get("Laravel_Session","")
-XSRF_TOKEN = os.environ.get("XSRF_TOKEN","")
+GDTot_Crypt = os.environ.get("CRYPT","cTMxTmdsaDFFZ09Za1psczdwZERoMFZHTlpJUGxEL09QYjY2am9CVy9haz0%3D")
+Laravel_Session = os.environ.get("Laravel_Session","eyJpdiI6IkdPTk9yNVB0ZjlHeVhpTmlMSkh1blE9PSIsInZhbHVlIjoiYk5cL3B6UlwvZVAzRTRvWHhFTjlyWkNFMXhTcXFxQjE0SldGRUNlVE9naFVjdnByUzFKQU9RUGpxR29SRk9DdmhPIiwibWFjIjoiMjQwYzg5Y2ZlODU5NGY5ZWZlMzcyNGMxNWU1MThlNDg2MjQxNGE2ZDBjMzYwZjgzYzBhYjM2OTZlODAzN2Y1YiJ9")
+XSRF_TOKEN = os.environ.get("XSRF_TOKEN","eyJpdiI6Im1zWDVJRTArV0Jkd0RmcFI2dGl4dXc9PSIsInZhbHVlIjoiQ1ZlYzZUUDdMMEhRbmFRdWg1eDRMdTZPdnF1emtJMDJWTytkZGRVQWJ6QjdVanpZZFVwclVteHU4aFVBRnVqMCIsIm1hYyI6IjI3ZWM4ZGQyOTU2NDczZDVhYzIzOGIxNjdhYjg5ZTkxY2FiZmNiOWUwYmFmNDRmZmNmOGY1MThiYjAxMDljZTQifQ%3D%3D")
 
 
 # start
